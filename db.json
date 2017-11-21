@@ -1,13 +1,9 @@
-{"MetaTEDS":{
-	"uuid":"05",
-	"seq":"76FF",
-	"tedsid":[
-		"14510",
-		"METATEDS",
-		"1"
-	],
-	"geoloc":[
-		"245142.34",
-		"155142.34"
-	],
-"channum":2}}
+{
+   "id": 1,
+   "name": "Leanne Graham",
+   "username": "Bret",
+   "company": {
+     "name": "Romaguera-Crona",
+     "catchPhrase": "Multi-layered client-server neural-net",
+     "bs": "harness real-time e-markets"
+   }}
